@@ -1,3 +1,3 @@
 # Wouter Website
 
-this contains my cv, and some other studd
+this contains my cv, and some other stuff
